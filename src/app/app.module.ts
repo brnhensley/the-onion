@@ -7,13 +7,15 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 
 import 'materialize-css';
 import { HeaderComponent } from './header/header.component';
+import { LeftSidebarComponent } from './left-sidebar/left-sidebar.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
-    HeaderComponent
+    HeaderComponent,
+    LeftSidebarComponent
   ],
   imports: [
     BrowserModule,
