@@ -10,6 +10,7 @@ import { HeaderComponent } from './header/header.component';
 import { LeftSidebarComponent } from './splash-page/left-sidebar/left-sidebar.component';
 import { SplashPageComponent } from './splash-page/splash-page.component';
 import { RightSidebarComponent } from './splash-page/right-sidebar/right-sidebar.component';
+import { HeadlineComponent } from './splash-page/headline/headline.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { RightSidebarComponent } from './splash-page/right-sidebar/right-sidebar
     HeaderComponent,
     LeftSidebarComponent,
     SplashPageComponent,
-    RightSidebarComponent
+    RightSidebarComponent,
+    HeadlineComponent
   ],
   imports: [
     BrowserModule,
