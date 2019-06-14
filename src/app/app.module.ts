@@ -9,6 +9,7 @@ import 'materialize-css';
 import { HeaderComponent } from './header/header.component';
 import { LeftSidebarComponent } from './splash-page/left-sidebar/left-sidebar.component';
 import { SplashPageComponent } from './splash-page/splash-page.component';
+import { RightSidebarComponent } from './splash-page/right-sidebar/right-sidebar.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { SplashPageComponent } from './splash-page/splash-page.component';
     NavBarComponent,
     HeaderComponent,
     LeftSidebarComponent,
-    SplashPageComponent
+    SplashPageComponent,
+    RightSidebarComponent
   ],
   imports: [
     BrowserModule,
