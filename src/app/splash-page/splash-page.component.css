@@ -2,6 +2,7 @@
     padding: 15px;
     border-right: solid lightgrey 1px;
     border-left: solid lightgrey 1px;
+    height: 100%;
 }
 
 #splash .article {
@@ -9,6 +10,22 @@
 }
 
 img {
-    display: block;
-    width: 100px;
+    /* display: block; */
+    width: 100%;
+}
+
+.left-bar {
+    text-align: left
+}
+
+.thumb {
+    overflow-y: hidden;
+    float: left;
+    width: 50%;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+.article {
+    margin-top: 10px;
 }
