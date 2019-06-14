@@ -11,15 +11,8 @@
 }
 
 img {
-  /* display: block; */
   width: 100%;
 }
-
-.left-bar {
-  text-align: left
-}
-
-.right-bar {}
 
 .thumb {
   float: left;
