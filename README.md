@@ -1,27 +1,48 @@
-# TheOnion
+# _The Onion_
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+#### _A Website Clone of TheOnion.com, 6-14-19_
 
-## Development server
+#### _By Brian Hensley_
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## _Description_
 
-## Code scaffolding
+This is a clone of theonion.com built in Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## _Setup/Installation Requirements_
 
-## Build
+* _Clone this repo to your home machine_
+* _run [$ npm install] from the app's root folder_
+* _run [$ npm ng serve -open] from the app's root folder_
+* _Enjoy_
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
+## _Current Features_
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* _The main page of the site has a splash page displaying several componants_
+* _At the top is a navbar_
+* _Beneath that is The Onion's banner header_
+* _The main portion of the page is a component displaying 3 child componants in columns_
+* _Centrally is the Headline with image_
+* _A Left sidebar of featured articles_
+* _A Right sidebar with smaller blurbs and more links_
 
-## Running end-to-end tests
+## _Future Features_
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* _The top navbar will expland with more detailed info when hovering over a link_
+* _Routing to multiple pages using the components in different combinations_
+* _A footer_
+* _Real jokes_
 
-## Further help
+## _Support and contact details_
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Create a pull request on GitHub.
+
+## _Technologies Used_
+
+I used Angular, Javascript, Typescript, HTML, CSS, Node, WebPack, and DuckDuckGo to build this program.
+
+### _License_
+
+GPL, keep information free.
+
+Copyright (c) 2019 Brian Hensley
