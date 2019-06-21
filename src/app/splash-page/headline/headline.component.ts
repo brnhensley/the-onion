@@ -12,8 +12,8 @@ export class HeadlineComponent implements OnInit {
   articles: FirebaseListObservable<any[]>;
 
   constructor(private articleService: ArticleService) {
-    this.articles.subscribe( items => {
-    })
+    // this.articles.subscribe( items => {
+    // })
 
   }
 
