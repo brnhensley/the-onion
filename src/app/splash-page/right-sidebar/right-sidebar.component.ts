@@ -15,7 +15,6 @@ export class RightSidebarComponent implements OnInit {
     this.articles = articleService.getArticles();
 
     this.articles.subscribe(items => {
-      console.log(items);
     });
   }
 

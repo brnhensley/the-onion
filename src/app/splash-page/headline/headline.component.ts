@@ -15,7 +15,6 @@ export class HeadlineComponent implements OnInit {
     this.articles = articleService.getArticles();
 
     this.articles.subscribe( items => {
-      // console.log(items);
     });
 
   }

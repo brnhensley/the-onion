@@ -15,9 +15,6 @@ export class LeftSidebarComponent implements OnInit {
     this.articles = articleService.getArticles();
 
     this.articles.subscribe(items => {
-      console.log("left sidebar log");
-      console.log(items);
-
     });
 
   }
