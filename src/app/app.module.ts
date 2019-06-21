@@ -15,6 +15,7 @@ import { masterFirebaseConfig } from './api-keys';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { AngularFireModule } from 'angularfire2';
 import { ArticlesComponent } from './articles/articles.component';
+import { FooterComponent } from './footer/footer.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -33,7 +34,8 @@ export const firebaseConfig = {
     SplashPageComponent,
     RightSidebarComponent,
     HeadlineComponent,
-    ArticlesComponent
+    ArticlesComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
