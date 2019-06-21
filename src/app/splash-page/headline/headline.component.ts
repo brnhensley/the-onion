@@ -9,12 +9,11 @@ import { ArticleService } from '../../article.service';
   providers: [ArticleService]
 })
 export class HeadlineComponent implements OnInit {
-  articles: FirebaseListObservable<any[]>;
+  // articles: FirebaseListObservable<any[]>;
 
   constructor(private articleService: ArticleService) {
-    this.articles.subscribe( items => {
+      this.articles( items => {
     })
-
   }
 
   ngOnInit() {
