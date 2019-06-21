@@ -21,4 +21,7 @@ export class HeadlineComponent implements OnInit {
     this.articles = this.articleService.getArticles();
   }
 
+  // console.log(articles);
+
+
 }
