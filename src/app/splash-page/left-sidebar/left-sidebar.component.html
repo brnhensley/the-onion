@@ -1,6 +1,6 @@
-<div class="article">
-  <div *ngFor="let article of articles | async">
-    <div *ngIf="article.type === 'features'">
+<div *ngFor="let article of articles | async">
+  <div *ngIf="article.type === 'features'">
+    <div class="article">
       <img src="{{article.image}}" alt="{{article.caption}}">
       <h5>{{article.headline}}</h5>
     </div>
