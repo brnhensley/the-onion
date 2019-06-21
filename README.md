@@ -18,20 +18,18 @@ This is a clone of theonion.com built in Angular.
 
 ## _Current Features_
 
-* _The main page of the site has a splash page displaying several componants_
-* _At the top is a navbar_
-* _Beneath that is The Onion's banner header_
-* _The main portion of the page is a component displaying 3 child componants in columns_
-* _Centrally is the Headline with image_
-* _A Left sidebar of featured articles_
-* _A Right sidebar with smaller blurbs and more links_
+* _The main page of the site has a splash page displaying several components_
+* _At the top is a navbar component with links to articles_
+* _Beneath that is The Onion's banner header also with links to articles and home_
+* _The main portion of the page is a component displaying 3 child components in columns_
+* _Centrally is the Headline with an image pulled from Firebase_
+* _A Left sidebar of featured articles populated from Firebase_
+* _A Right sidebar with smaller article blurbs populated from Firebase_
+* _An articles page populated from Firebase that includes all articles, images, headlines and text_
 
 ## _Future Features_
 
-* _The top navbar will expland with more detailed info when hovering over a link_
-* _Routing to multiple pages using the components in different combinations_
 * _A footer_
-* _Real jokes_
 
 ## _Support and contact details_
 
