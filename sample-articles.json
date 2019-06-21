@@ -1,18 +1,53 @@
 {
-  "albums": [{
-    "title": " Piper At The Gates of Dawn",
-    "artist": "Pink Floyd",
-    "description": "A live  album by the English progressive rock band originally released in 1995, on the label EMI in the United Kingdom.",
+  "articles": [{
+    "type": "features",
+    "headline": "Man Annoyed At Being Mistaken For Employee Just Because He Driving Forklift Through Store",
+    "image": "pic1.png",
+    "caption": "a forklift",
+    "text": "EPPING, NH—Expressing frustration over all the people approaching him asking for assistance, local man Dan McDermott was annoyed Friday at being repeatedly mistaken for an employee just because he was driving a forklift through his local Costco. “God, I’m just trying to mind my own business and transport crates of shampoo across the sales floor, and all these customers keep coming up to me and asking if I can help get something down from way up on the top of the shelves,” said McDermott, explaining how just because he’s operating the same brand of four-wheeled power truck that the staff members use doesn’t mean he’s an actual Costco employee.",
     "id": "1"
   }, {
-    "title": "Dilate",
-    "artist": "Ani DiFranco",
-    "description": "Her highest-selling and most acclaimed album, released in 1996.",
+    "type": "features",
+    "headline": "Drooling Imbecile Rocks Back And Forth In Delight While Watching Arby’s Clap Back At Burger King On Twitter",
+    "image": "pic2.png",
+    "caption": "an imbecile",
+    "text": "DES MOINES, IA—Expressing glee with a series of yelps and shrieks, local drooling imbecile Andrew Gardner was giddily rocking back and forth in delight Tuesday while watching the official Arby’s account clap back at Burger King on Twitter. “Ahahahaha!!! Arby’s didn’t come to play! Epic burn!!!” said the over-stimulated dimwit, who was so unable to contain his joy after seeing that Arby’s had tagged Burger King in a picture of a dumpster with the caption “Loving the new @BurgerKing menu” that he excitedly stomped his feet and shit his pants. “They’re saying that Burger King is trash! Hahahaha!!! Yesss!!!! Oh my gosh. Me love Arby’s now!!!” Sources later confirmed that after Arby’s tweeted an image advertising their new Big Kahuna sandwich, the numbskull desperately tried licking the computer screen.",
     "id": "2"
   }, {
-    "title": "Axis Bold As Love",
-    "artist": "Jimi Hendrix",
-    "description": "Second studio album by the English-American band, released in 1967.",
+    "type": "blurb",
+    "headline": "O.J. Simpson joins Twitter",
+    "image": "pic4",
+    "caption": "opinion",
+    "text": "",
     "id": "3"
-  }]
+  }, {
+    "type": "main",
+    "headline": "Bleeding John Bolton Stumbles Into Capitol Building Claiming That Iran Shot Him",
+    "image": "pic3.png",
+    "caption": "an asshole",
+    "text": "WASHINGTON—Bursting through the Congressional chamber doors while moaning and clutching his shoulder, John Bolton reportedly stumbled into the Capitol building Friday claiming that he’d been shot by Iran. “Help, help, I’ve just been attacked by a large Middle Eastern country around 636,000 square miles in size,” said the national security advisor, telling those assembled that he’d just been minding his own business when an aggressive Islamic Republic had thrown him on the ground and shot him with a long-range missile. “Right after Iran shot me, I heard the nation laugh and say ‘Somebody stop me before I go on a homicidal rampage.’ It was acting crazed and irrational, and I could smell enriched uranium coming from one of its urban centers. Please, hurry, if we move quickly, we might still be able to catch it before it’s too late.” Upon further questioning, Bolton admitted that the incident had happened so fast that it was possible he’d been attacked by Venezuela or North Korea.",
+    "id": "4"
+  }, {
+    "type": "blurb",
+    "headline": "‘Hold Still,’ Says Eric Trump Swinging Sword At Don Jr. Trapped Inside Knight’s Armor",
+    "image": "pic5.png",
+    "caption": "The Trump boys are at it again",
+    "text": "LONDON—Concentrating as he lined up the 19th-century saber against the plate mail cutting off his brother’s breathing, Eric Trump reportedly shouted, “Hold still!” Wednesday before swinging a sword at the knight’s armor Don Jr. was trapped inside at Buckingham Palace.“Okay, on a count of three, I’m gonna whack you with this sword and chop the armor off so then you’ll be free—quick, before the guards come,” said Eric to his panicking, hyperventilating brother, raising the sword following several failed attempts to pry Don Jr. from the armor he’d gotten stuck inside after the two snuck away from a palace tour to knight each other. “Stop saying you’re gonna die in there—and don’t pee, whatever you do, otherwise the armor will rust and you’ll be stuck inside forever and ever. Since they haven’t invented WD40 over here yet, I’m putting in another stick a butter to make it extra slippery. Hold your breath so I can cut you free with this old knife, otherwise I might cut you in half and we’ll have to go to the knight hospital. Ready?” At press time, Eric had abandoned his brother after hearing a palace employee announce it was time for dinner.",
+    "id": "5"
+  }, {
+    "type": "blurb",
+    "headline": "Man Can’t Help But Think He Played Small Part In Female Coworker’s Success By Not Actively Sabotaging Her Career",
+    "image": "pic6.png",
+    "caption": "An ally",
+    "text": "SAN FRANCISCO—Beaming with pride as he recalled the support he gave coworker Laura Wolff when he refrained from taking full credit for a joint project, advertising copywriter Ken Appleby said Monday he sincerely believes his non-undermining behavior contributed significantly to the female colleague’s success. “New hires always need a support system, and I’d like to think I was Laura’s when she started here because I generally kept my distance and didn’t hinder her progress on purpose, at least as far as I can remember,” said Appleby, recalling that he actively chose not to upstage Wolff in meetings, and instead greeting the ideas she pitched with the empty silence they needed in order to spread their wings and fly. “A lot of men are threatened by women in the workplace, but I don’t think it’s a stretch to say I go the extra mile by not talking over women—I don’t even acknowledge that they’re talking at all half the time. And I never once protested, or even commented at all one way or another, when Laura got that promotion.” Appleby expressed frustration that his female coworker has been “somewhat of an ingrate,” never once thanking him for all his help.",
+    "id": "6"
+  }, {
+    "type": "blurb",
+    "headline": "Bob Marley Rises From Grave To Free Frat Boys From Bonds Of Oppression",
+    "image": "pic7.png",
+    "caption": "Marley",
+    "text": "WILLIAMSBURG, VA—In an unprecedented effort to fight injustice, reggae music legend Bob Marley, dead since 1981, rose from his grave in Jamaica early Sunday to free his most devoted followers, American college fraternity members, 'from the bonds of oppression.'",
+    "id": "7"
+  }
+]
 }
