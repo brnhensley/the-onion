@@ -8,6 +8,7 @@ import { ArticleService } from '../article.service';
   styleUrls: ['./splash-page.component.css'],
   providers: [ArticleService]
 })
+
 export class SplashPageComponent implements OnInit {
   articles: FirebaseListObservable<any[]>;
 
