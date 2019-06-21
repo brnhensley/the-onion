@@ -7,10 +7,10 @@ export class ArticleService {
 
   constructor(private database: AngularFireDatabase) {
     this.articles = database.list('articles');
+    this.articles.subscribe(x => console.log(x));
   }
 
   getArticles() {
-    console.log(this.articles);
     return this.articles;
   }
 
