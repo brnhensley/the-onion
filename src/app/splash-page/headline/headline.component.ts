@@ -12,13 +12,15 @@ export class HeadlineComponent implements OnInit {
   articles: FirebaseListObservable<any[]>;
 
   constructor(private articleService: ArticleService) {
+    this.articles = articleService.getArticles();
+
     this.articles.subscribe( items => {
-    })
+      // console.log(items);
+    });
 
   }
 
   ngOnInit() {
-    this.articles = this.articleService.getArticles();
   }
 
 }
