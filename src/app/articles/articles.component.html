@@ -1,7 +1,9 @@
-<div *ngFor="let article of articles | async">
-  <div class="article">
-    <img src="{{article.image}}" alt="{{article.caption}}">
-    <h3>{{article.headline}}</h3>
-    <p>{{article.text}}</p>
+<div class="container">
+  <div *ngFor="let article of articles | async">
+    <div class="list">
+      <img src="{{article.image}}" alt="{{article.caption}}">
+      <h3>{{article.headline}}</h3>
+      <p>{{article.text}}</p>
+    </div>
   </div>
 </div>
