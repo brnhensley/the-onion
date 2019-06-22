@@ -14,6 +14,7 @@ This is a clone of theonion.com built in Angular.
 * _run [$ npm install] from the app's root folder_
 * _run [$ npm ng serve -open] from the app's root folder_
 * _Enjoy_
+* _Or visit the hosted site at https://the-onion-c6b25.firebaseapp.com_
 
 
 ## _Current Features_
