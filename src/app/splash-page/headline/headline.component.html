@@ -1,3 +1,6 @@
+<!-- Please tell me why this won't work -->
+<!-- <h1 {{articles[0].title}}></h1> -->
+
 <div *ngFor="let article of articles | async">
   <div *ngIf="article.type === 'main'">
     <img src="{{article.image}}" alt="{{article.caption}}">
